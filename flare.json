@@ -1,0 +1,230 @@
+{"name":"Jobs-To-Be-Done Needs Framework", "children":[
+  {
+     "name": "Job Executor",
+     "color" : "#3182bd",
+     "children": [
+        {
+          "name": "Core Functional Job", "color": "#3182bd",
+          "children": [
+            {"name":"Job steps - Define", "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]
+           },
+            {"name":"Job steps - Locate",  "color": "#3182bd",
+             "children": [
+                {"name":"Outcomes", "size": 10, "color": "#3182bd"}
+              ]},
+            {"name":"Job steps - Prepare",  "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]},
+            {"name":"Job steps - Confirm",  "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]},
+            {"name":"Job steps - Execute",  "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]},
+            {"name":"Job steps - Monitor",  "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]},    
+            {"name":"Job steps - Modify",  "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]},
+            {"name":"Job steps - Conclude",  "color": "#3182bd",
+             "children": [{"name":"Outcomes", "size": 10, "color": "#3182bd"}]}
+          ]
+        },
+        {"name": "Related Jobs", "color": "#9ecae1",
+          "children": [
+            {"name":"Job 1", "size": 10, "color": "#9ecae1"},
+            {"name":"Job 2", "size": 10, "color": "#9ecae1"},
+            {"name":"Job 3, etc", "size": 10, "color": "#9ecae1"}
+          ]
+
+        },
+        {"name": "Emotional Jobs", "color": "#deebf7",
+          "children": [
+            {"name":"Job 1", "size": 10, "color": "#deebf7"},
+            {"name":"Job 2", "size": 10, "color": "#deebf7"},
+            {"name":"Job 3, etc", "size": 10, "color": "#deebf7"}
+          ]
+        }
+      ]
+    },
+
+    {"name": "Product Lifecycle Support Team", "color": "#756bb1",
+      "children": [
+        {
+          "name":"Consumption Chain Jobs",  "color": "#756bb1",
+          "children": [
+            {"name":"Dispose",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps", "color": "#bcbddc",
+                  "children":[
+                    {"name" : "Outcomes","color": "#efedf5",
+                     "size" : 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {"name":"Repair",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Upgrade",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Maintain",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Store",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Clean",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Transport",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Interface",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Learn to use",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Setup",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Install",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Receive",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes","color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            },
+            {"name":"Purchase",  "color": "#756bb1",
+              "children": 
+              [
+                {"name": "Job Steps","color": "#bcbddc",
+                  "children":[
+                  {"name" : "Outcomes", "color": "#efedf5",
+                   "size" : 10
+                  }
+                ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+    {"name": "Purchase Decision Maker", "color": "#e6550d",
+      "children":
+      [
+        {"name": "Financial Metrics","color": "#e6550d",
+        "children": [
+          {"name": "Outcome 1", "color": "#fdae6b","size": 10},
+          {"name": "Outcome 2", "color": "#fdae6b","size": 10},
+          {"name": "Outcome 3", "color": "#fdae6b","size": 10}]
+        }  
+
+      ]
+    }
+  ]
+}
+
+
